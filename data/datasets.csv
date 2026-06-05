@@ -1,0 +1,4 @@
+dataset_name,file_path,description
+titanic_train,data/train.csv,Titanic training data
+titanic_test,data/test.csv,Titanic test data
+titanic_gender_submission,data/gender_submission.csv,Sample submission for Titanic
